@@ -1,2 +1,2 @@
 # Lab3Apple
-![alt text](img/screenshot.png)
+![alt text](img/screenshot.PNG)
