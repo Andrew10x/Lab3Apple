@@ -1,2 +1,2 @@
 # Lab3Apple
-img/screenshot.PNG
+![alt text](img/screenshot.png "Описание будет тут")
